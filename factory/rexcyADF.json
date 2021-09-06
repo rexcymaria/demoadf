@@ -1,0 +1,9 @@
+{
+	"name": "rexcyADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "342389c4-2fdb-4a9b-81af-166c987da035",
+		"tenantId": "70bb7449-c031-4eb2-a4cd-0c162c90a4a2"
+	}
+}
